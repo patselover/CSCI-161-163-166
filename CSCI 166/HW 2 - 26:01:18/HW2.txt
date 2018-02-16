@@ -1,0 +1,8 @@
+>>diary on
+>>%file main.m
+>>main
+-7
+0.98543
+2.7183
+3.1416
+>>diary off
